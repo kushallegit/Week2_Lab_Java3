@@ -32,7 +32,7 @@ This Java program defines a **Student** model class with fields such as `name`, 
 If you enter invalid data, you will see an error message explaining the issue.
 
 ## Error Messages
-Student ID: "Student ID must start with 'G' followed by 9 digits."
-GPA: "GPA must be between 0.0 and 4.0."
-Name: "Name cannot be empty or null."
-Age: "Age must be between 16 and 100."
+- Student ID: "Student ID must start with 'G' followed by 9 digits."
+- GPA: "GPA must be between 0.0 and 4.0."
+- Name: "Name cannot be empty or null."
+- Age: "Age must be between 16 and 100."
